@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pks21g/japanese-quizes/static/css/main.988efbb3.css",
+    "main.js": "/pks21g/japanese-quizes/static/js/main.eee0036f.js",
+    "static/js/453.e9bb5068.chunk.js": "/pks21g/japanese-quizes/static/js/453.e9bb5068.chunk.js",
+    "index.html": "/pks21g/japanese-quizes/index.html",
+    "main.988efbb3.css.map": "/pks21g/japanese-quizes/static/css/main.988efbb3.css.map",
+    "main.eee0036f.js.map": "/pks21g/japanese-quizes/static/js/main.eee0036f.js.map",
+    "453.e9bb5068.chunk.js.map": "/pks21g/japanese-quizes/static/js/453.e9bb5068.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.988efbb3.css",
+    "static/js/main.eee0036f.js"
+  ]
+}
